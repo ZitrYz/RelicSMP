@@ -1,0 +1,12 @@
+name: RelicsSMP
+version: 1.0.0-SNAPSHOT
+main: RelicSmp.Main
+
+api-version: '1.21'
+
+commands:
+  giveRelic:
+  ability1:
+  ability2:
+  restartCooldowns:
+  trust:

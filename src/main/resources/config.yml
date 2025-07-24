@@ -1,0 +1,32 @@
+#Voidform ability duration (in seconds)
+VOIDFORM_DURATION: 8
+#Ashen king relic ability cooldown (in seconds)
+ASHEN_KING_COOLDOWN: 3600
+#Hermes sandals relic ability cooldown (in seconds)
+HERMES_SANDALS_COOLDOWN: 45
+#Infernal beast relic ability cooldown (in seconds)
+RELIC_OF_INFERNAL_BEAST_COOLDOWN: 300
+#Oblivion relic ability cooldown (in seconds)
+RELIC_OF_OBLIVION_COOLDOWN: 3600
+#Miners fortune relic ability cooldown (in seconds)
+RELIC_OF_THE_MINERS_FORTUNE_COOLDOWN: 300
+#Wandering star relic ability cooldown (in seconds)
+RELIC_OF_THE_WANDERING_STAR_COOLDOWN: 86400
+#Sonic bow relic ability cooldown (in seconds)
+SONIC_BOW_COOLDOWN: 90
+#Voidform ability cooldown (in seconds)
+VOIDFORM_COOLDOWN: 120
+#Oblivion ability duration (in seconds)
+OBLIVION_DURATION: 30
+
+#Damage dealt by sonic bow sonic boom (true damage: 2 = 1 heart)
+SONIC_BOW_DAMAGE: 8
+
+#How long hellhound minion live for (in seconds)
+HELLHOUND_MINION_LIFESPAN: 60
+
+#Infernal beast effects (Format: <effect_in_lowercase>: modifier, F.E: regeneration: 5)
+INFERNAL_BEAST_EFFECTS:
+  strength: 3
+  absorption: 2
+  resistance: 1
